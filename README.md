@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**cristsr/cristsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi 👋 My name is Cristian Puenguenan
 ====================================
 
@@ -63,4 +46,4 @@ src="https://img.shields.io/github/followers/cristsr?logo=github&style=for-the-b
 
 <a href="http://www.github.com/cristsr"><img src="https://activity-graph.herokuapp.com/graph?username=cristsr&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/cristsr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristsr&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cristsr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristsr&langs_count=5&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
