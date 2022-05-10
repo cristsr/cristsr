@@ -8,7 +8,7 @@ I've been learning to code for 4 years, I am a software engineer with a passion 
 
 * 🌍  I'm based in Bogota
 * ✉️  You can contact me at [styven21121@gmail.com](mailto:styven21121@gmail.com)
-* 🧠  I'm learning Nest js
+* 🧠  I'm learning [Rust](https://www.rust-lang.org/)
 
 <a href="https://www.github.com/cristsr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cristsr?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
