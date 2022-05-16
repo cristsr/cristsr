@@ -43,5 +43,3 @@ src="https://img.shields.io/github/followers/cristsr?logo=github&style=for-the-b
 
 
 <a href="http://www.github.com/cristsr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristsr&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
