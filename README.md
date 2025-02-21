@@ -7,7 +7,7 @@ Hi 👋 My name is Cristian Puenguenan
 Backend developer
 -----------------
 
-I've been learning to code for 5 years, I am a software engineer with a passion for backed development.
+I am a software engineer with 5 years of experience as a backend developer, passionate about developing solutions using the best practices.
 
 * 🌍  I'm based in Bogota
 * ✉️  You can contact me at [styven21121@gmail.com](mailto:styven21121@gmail.com)
