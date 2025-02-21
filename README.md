@@ -1,12 +1,6 @@
 Hey there 👋 👋 
 ====================================
 
-
-
-
-Backend developer
------------------
-
 My name is Cristian Puenguenan. I am a software engineer with 5 years of experience as a backend developer, passionate about developing solutions using the best practices.
 
 * 🌍  I'm based in Bogota
